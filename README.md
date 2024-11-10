@@ -2,7 +2,7 @@
 ![](https://res.cloudinary.com/willwidlof/image/upload/v1597591891/GitHubBanner.png)
  -->
 
-### Hi there, I'm Will. I'm an Android Developer at Barclays in Manchester, UK. I've been working there for 5 years, in that time i've worked on a number of features on the Mobile Banking Android Application. In my spare time I play games, watch the odd show and write apps (and a few other bits and pieces) on here.
+### Hi there, I'm Will. I'm an Android Developer at Barclays in Manchester, UK.
 
 <!--
 **WillWidlof/WillWidlof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
