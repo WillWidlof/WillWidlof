@@ -2,7 +2,7 @@
 ![](https://res.cloudinary.com/willwidlof/image/upload/v1597591891/GitHubBanner.png)
  -->
 
-### Hi there, I'm Will. I'm an Android Developer at Barclays in Manchester, UK.
+### Hi, I'm Will. I'm an Android Engineer in the UK.
 
 <!--
 **WillWidlof/WillWidlof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
